@@ -1,0 +1,16 @@
+body{
+background-size: cover;
+background-position: center;
+}
+h1{
+text-decoration-color: cyan;
+color: cyan;
+text-emphasis-color: green;
+}
+.heading
+{
+width: 100%;
+color: cyan;
+text-decoration-color: cyan;
+text-emphasis-color: green;
+}
